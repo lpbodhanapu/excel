@@ -5,5 +5,7 @@ dashboard 1 - <img width="1030" height="1174" alt="image" src="https://github.co
 dashboard 2 - <img width="1722" height="960" alt="image" src="https://github.com/user-attachments/assets/333b31da-a033-4bd2-a67a-172f21e1b678" />
 dashboard 3 - <img width="2076" height="1214" alt="image" src="https://github.com/user-attachments/assets/9492d591-b059-4cb0-aa5a-14255e972174" />
 dashboard 4 - <img width="2208" height="890" alt="mcd" src="https://github.com/user-attachments/assets/82669511-c19b-4a5f-8846-42df4bd20d74" />
+dashboard 5 - <img width="2612" height="1158" alt="chocolate" src="https://github.com/user-attachments/assets/b6093033-7235-4f89-ab84-0d75524b95a8" />
+
 
 some of these  report was generated based on @chandoo-org , @AlexTheAnalyst tutorials 
