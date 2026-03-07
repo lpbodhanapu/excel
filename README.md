@@ -9,6 +9,8 @@ dashboard 5 - <img width="2612" height="1158" alt="chocolate" src="https://githu
 dashboard 6 - <img width="2488" height="1266" alt="cococola" src="https://github.com/user-attachments/assets/e71916b8-c09f-4af9-9262-04b866141b58" />
 dashboard 7 - <img width="2446" height="1256" alt="cookie" src="https://github.com/user-attachments/assets/7f2e7bef-47dc-4480-86db-429f60ecac41" />
 dashboard 8 -<img width="2270" height="1188" alt="image" src="https://github.com/user-attachments/assets/58f9d174-4ee0-49bf-b01c-a1e7589d213f" />
+dashboard 8 -<img width="1978" height="1106" alt="image" src="https://github.com/user-attachments/assets/029cc85b-e4dc-44f1-8e7f-728422e1879d" />
+
 
 
 
